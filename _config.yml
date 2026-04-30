@@ -23,14 +23,14 @@ repository               : "Tollymon13/edy_nastase.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "20240403_231459.png"
+  avatar           : "imresizer-20240403_231459.png"
   name             : "Edy N."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "AI Safety focused, but with a CogSci twist"
+  location         : "Ireland"
+  employer         : "University of Galway"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tollymon2017@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Tollymon13"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
